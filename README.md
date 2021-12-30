@@ -1,0 +1,1 @@
+# To-capitalize-the-first-character-of-a-string-using-list-slicing
